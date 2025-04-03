@@ -360,7 +360,7 @@ function DashboardPage() {
         </div>
       </div>
       
-      <Footer />
+      {/* <Footer /> */}
     </div>
   );
 }

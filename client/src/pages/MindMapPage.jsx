@@ -301,7 +301,7 @@ function MindMapPage() {
         </div>
       </div>
       
-      <Footer />
+      {/* <Footer /> */}
     </div>
   );
 }

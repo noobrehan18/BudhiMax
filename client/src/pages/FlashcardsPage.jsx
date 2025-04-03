@@ -271,7 +271,7 @@ function FlashcardsPage() {
         </div>
       </div>
       
-      <Footer />
+      {/* <Footer /> */}
     </div>
   );
 }

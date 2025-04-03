@@ -491,7 +491,7 @@ function ModulePage() {
         </div>
       </div>
       
-      <Footer />
+      {/* <Footer /> */}
     </div>
   );
 }
