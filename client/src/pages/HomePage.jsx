@@ -258,7 +258,7 @@ function HomePage() {
                 </p>
                 <div className="flex justify-between items-center">
                   <span className="text-sm text-gray-500">4 lessons • 2 exercises</span>
-                  <Link to="/auth" className="text-blue-600 hover:text-blue-800 font-medium flex items-center">
+                  <Link to="https://www.socratesheadofschool.com/books/understanding-how-we-learn" className="text-blue-600 hover:text-blue-800 font-medium flex items-center">
                     Learn More
                     <svg xmlns="http://www.w3.org/2000/svg" className="h-4 w-4 ml-1" viewBox="0 0 20 20" fill="currentColor">
                       <path fillRule="evenodd" d="M10.293 5.293a1 1 0 011.414 0l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414-1.414L12.586 11H5a1 1 0 110-2h7.586l-2.293-2.293a1 1 0 010-1.414z" clipRule="evenodd" />
@@ -287,7 +287,7 @@ function HomePage() {
                 </p>
                 <div className="flex justify-between items-center">
                   <span className="text-sm text-gray-500">5 lessons • 1 activity</span>
-                  <Link to="/auth" className="text-purple-600 hover:text-purple-800 font-medium flex items-center">
+                  <Link to="https://online.hbs.edu/blog/post/what-is-design-thinking" className="text-purple-600 hover:text-purple-800 font-medium flex items-center">
                     Learn More
                     <svg xmlns="http://www.w3.org/2000/svg" className="h-4 w-4 ml-1" viewBox="0 0 20 20" fill="currentColor">
                       <path fillRule="evenodd" d="M10.293 5.293a1 1 0 011.414 0l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414-1.414L12.586 11H5a1 1 0 110-2h7.586l-2.293-2.293a1 1 0 010-1.414z" clipRule="evenodd" />
@@ -316,7 +316,7 @@ function HomePage() {
                 </p>
                 <div className="flex justify-between items-center">
                   <span className="text-sm text-gray-500">6 lessons • 3 exercises</span>
-                  <Link to="/auth" className="text-green-600 hover:text-green-800 font-medium flex items-center">
+                  <Link to="https://www.usa.edu/blog/science-backed-memory-tips/" className="text-green-600 hover:text-green-800 font-medium flex items-center">
                     Learn More
                     <svg xmlns="http://www.w3.org/2000/svg" className="h-4 w-4 ml-1" viewBox="0 0 20 20" fill="currentColor">
                       <path fillRule="evenodd" d="M10.293 5.293a1 1 0 011.414 0l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414-1.414L12.586 11H5a1 1 0 110-2h7.586l-2.293-2.293a1 1 0 010-1.414z" clipRule="evenodd" />

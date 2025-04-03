@@ -32,32 +32,46 @@ function ModulePage() {
           { id: 5, title: 'Mnemonic Devices', completed: false },
         ],
         content: `
-          <h2>Understanding Spaced Repetition</h2>
-          <p>Spaced repetition is a learning technique that involves reviewing information at increasing intervals. This method takes advantage of the psychological spacing effect, which demonstrates that information is more effectively memorized when reviewed over increasing time intervals rather than all at once.</p>
-          
-          <h3>How Spaced Repetition Works</h3>
-          <p>The system is quite simple:</p>
-          <ol>
-            <li>When you learn new information, review it within 24 hours</li>
-            <li>If you recall it correctly, increase the interval (e.g., 3 days)</li>
-            <li>If recalled correctly again, increase further (e.g., 7 days, then 14 days, etc.)</li>
-            <li>If you forget, reset to a shorter interval</li>
-          </ol>
-          
-          <h3>The Science Behind It</h3>
-          <p>Research has consistently shown that spaced repetition is one of the most effective study techniques. It works by strengthening neural pathways just as they begin to weaken, creating stronger long-term memories.</p>
-          
-          <img src="https://via.placeholder.com/600x300" alt="Forgetting curve graph" class="my-4 rounded" />
-          
-          <h3>Implementing Spaced Repetition</h3>
-          <p>Modern technology makes it easy to implement spaced repetition in your studies:</p>
-          <ul>
-            <li>Use flashcard apps with built-in spaced repetition algorithms</li>
-            <li>Set calendar reminders for review sessions</li>
-            <li>Create a physical system using index cards</li>
-          </ul>
-          
-          <p>In the next section, we'll explore how to build your own spaced repetition system tailored to your learning style.</p>
+          <h1 style="text-align: center; font-size: 2rem; color: #333; margin-bottom: 1rem;">
+  Understanding Spaced Repetition
+      </h1>
+
+        <p style="font-size: 1.1rem; line-height: 1.6; color: #555; text-align: justify;">
+          Spaced repetition is a powerful learning technique that helps you retain information more effectively. 
+          Instead of cramming, it utilizes systematic review at increasing intervals, reinforcing long-term memory.
+        </p>
+
+        <h2 style="color: #222; margin-top: 2rem;">How Spaced Repetition Works</h2>
+        <p style="font-size: 1rem; line-height: 1.6; color: #555;">
+          The system is straightforward and follows these principles:
+        </p>
+        <ol style="font-size: 1rem; color: #444; padding-left: 1.5rem; line-height: 1.6;">
+          <li>Review newly learned information within <strong>24 hours</strong>.</li>
+          <li>If recalled correctly, extend the interval (e.g., <em>3 days</em>).</li>
+          <li>Continue increasing the interval (e.g., <em>7 days → 14 days → 30 days</em>).</li>
+          <li>If you forget, restart with a shorter interval.</li>
+        </ol>
+
+        <h2 style="color: #222; margin-top: 2rem;">The Science Behind It</h2>
+        <p style="font-size: 1rem; line-height: 1.6; color: #555;">
+          Studies show that spaced repetition strengthens neural pathways at the perfect moment—just before they weaken.
+          This enhances retention and makes recall effortless over time.
+        </p>
+
+        <h2 style="color: #222; margin-top: 2rem;">How to Implement Spaced Repetition</h2>
+        <p style="font-size: 1rem; line-height: 1.6; color: #555;">
+          You can integrate this method into your study routine with:
+        </p>
+        <ul style="font-size: 1rem; color: #444; padding-left: 1.5rem; line-height: 1.6;">
+          <li>Flashcard apps with built-in spaced repetition (e.g., <strong>Anki, Quizlet</strong>).</li>
+          <li>Custom study schedules using calendar reminders.</li>
+          <li>A physical index card system for hands-on learners.</li>
+        </ul>
+
+        <p style="font-size: 1rem; line-height: 1.6; color: #555; margin-top: 1.5rem;">
+          In the next section, we'll explore how to build a <strong>custom spaced repetition system</strong> 
+          tailored to your personal learning style.
+        </p>        
         `,
         quiz: [
           {
