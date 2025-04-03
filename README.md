@@ -26,7 +26,5 @@ Learning is a continuous journey, and mastering effective techniques can make ac
 
 ---
 
-
-<<<<<<< HEAD
 ✍️ *"The beautiful thing about learning is that no one can take it away from you."* – B.B. King  
-=======
+
