@@ -382,13 +382,13 @@ function HomePage() {
               <h4 className="font-semibold text-lg">Md Rehan</h4>
               <p className="text-sm text-gray-500 mb-3">Developer</p>
               <div className="flex justify-center space-x-4">
-              <a href="#" className="text-muted-foreground hover:text-primary transition-colors">
+              <a href="#" className="text-muted-foreground hover:text-[#008080]">
                 <Github className="h-5 w-5" />
               </a>
-              <a href="#" className="text-muted-foreground hover:text-primary transition-colors">
+              <a href="#" className="text-muted-foreground  hover:text-blue-400 ">
                 <Twitter className="h-5 w-5" />
               </a>
-              <a href="#" className="text-muted-foreground hover:text-primary transition-colors">
+              <a href="#" className="text-muted-foreground  hover:text-blue-600">
                 <Linkedin className="h-5 w-5" />
               </a>
 
@@ -412,13 +412,13 @@ function HomePage() {
               </div>
               <h4 className="font-semibold text-lg">Amit Raj</h4>
               <div className="flex justify-center space-x-4">
-              <a href="#" className="text-muted-foreground hover:text-primary transition-colors">
+              <a href="#" className="text-muted-foreground hover:text-[#008080]">
                 <Github className="h-10 w-5" />
               </a>
-              <a href="#" className="text-muted-foreground hover:text-primary transition-colors">
+              <a href="#" className="text-muted-foreground hover:text-blue-400">
                 <Twitter className="h-10 w-5" />
               </a>
-              <a href="#" className="text-muted-foreground hover:text-primary transition-colors">
+              <a href="#" className="text-muted-foreground hover:text-blue-600">
                 <Linkedin className="h-10 w-5" />
               </a>
 
@@ -442,13 +442,13 @@ function HomePage() {
               </div>
               <h4 className="font-semibold text-lg">Md Kaif</h4>
               <div className="flex justify-center space-x-4">
-              <a href="#" className="text-muted-foreground hover:text-primary transition-colors">
+              <a href="#" className="text-muted-foreground hover:text-[#008080]">
                 <Github className="h-10 w-5" />
               </a>
-              <a href="#" className="text-muted-foreground hover:text-primary transition-colors">
+              <a href="#" className="text-muted-foreground hover:text-blue-400">
                 <Twitter className="h-10 w-5" />
               </a>
-              <a href="#" className="text-muted-foreground hover:text-primary transition-colors">
+              <a href="#" className="text-muted-foreground hover:text-blue-600">
                 <Linkedin className="h-10 w-5" />
               </a>
 
@@ -472,13 +472,13 @@ function HomePage() {
               </div>
               <h4 className="font-semibold text-lg">Partho</h4>
               <div className="flex justify-center space-x-4">
-              <a href="#" className="text-muted-foreground hover:text-primary transition-colors">
+              <a href="#" className="text-muted-foreground hover:text-[#008080]">
                 <Github className="h-10 w-5" />
               </a>
-              <a href="#" className="text-muted-foreground hover:text-primary transition-colors">
+              <a href="#" className="text-muted-foreground hover:text-blue-400">
                 <Twitter className="h-10 w-5" />
               </a>
-              <a href="#" className="text-muted-foreground hover:text-primary transition-colors">
+              <a href="#" className="text-muted-foreground hover:text-blue-600">
                 <Linkedin className="h-10 w-5" />
               </a>
 
@@ -502,13 +502,13 @@ function HomePage() {
               </div>
               <h4 className="font-semibold text-lg">Diganto</h4>
               <div className="flex justify-center space-x-4">
-              <a href="#" className="text-muted-foreground hover:text-primary transition-colors">
+              <a href="#" className="text-muted-foreground hover:text-[#008080]">
                 <Github className="h-10 w-5" />
               </a>
-              <a href="#" className="text-muted-foreground hover:text-primary transition-colors">
+              <a href="#" className="text-muted-foreground hover:text-blue-400">
                 <Twitter className="h-10 w-5" />
               </a>
-              <a href="#" className="text-muted-foreground hover:text-primary transition-colors">
+              <a href="#" className="text-muted-foreground hover:text-blue-600">
                 <Linkedin className="h-10 w-5" />
               </a>
 
